@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "DD4kn",
+  "description": "DD4kn",
   "keywords": [
     "vmess or vles"
   ],
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/xbdyhtldgs/DD4kn",
+  "repository": "https://github.com/xbdyhtldgs/DD4kn",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
